@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+form{
+	border: 2px solid lightcoral;
+	background-color: lightpink;
+	padding:0px 0px 10px 10px;
+}
